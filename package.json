@@ -1,0 +1,23 @@
+{
+  "name": "kubeframework",
+  "version": "7.2.0",
+  "description": "Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike",
+  "main": "kube/dist/css/kube.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommy4st/kubeframework.git"
+  },
+  "keywords": [
+    "css",
+    "kube",
+    "framework",
+    "imperavi",
+    "sass"
+  ],
+  "author": "Imperavi Ltd.",
+  "license": "MIT",
+  "homepage": "https://imperavi.com/kube/"
+}

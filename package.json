@@ -1,6 +1,6 @@
 {
   "name": "kubeframework",
-  "version": "7.2.0",
+  "version": "7.2.1",
   "description": "Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike",
   "main": "kube/dist/css/kube.css",
   "scripts": {
